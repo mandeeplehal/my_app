@@ -1,1 +1,1 @@
-# my_app
+# next js demo app
